@@ -1,0 +1,24 @@
+
+
+header h1 {
+    text-align: center;
+}
+
+p {
+    padding: 1.25em;
+}
+
+img {
+    border: 0;
+}
+
+img {
+    width: 50%;
+    max-width: 50%;
+    max-height: 50%;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
